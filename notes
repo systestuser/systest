@@ -1,0 +1,13 @@
+## Berdoa terlebih dahulu sebelum mengerjakan task ini ##
+
+
+server-A : 10.100.105.15
+user: mindtalk
+passwd: 123123
+
+1. login ke server-A, kemudian create user [x]
+2. pada localhost buatlah agar user: user dapat login ke server-A tanpa password
+3. pada localhost buatlah alias dengan nama server-1, agar dapat login ke server-A dengan command server-1 
+4. copy dir copy di localhost pada dir /home/user/ ke server-A /home/[x] 
+5. install nginx dengan versi 1.4.1 dan php5-fpm sehingga dapat menampilkan phpinfo
+   root path :/home/[x]
